@@ -1,11 +1,11 @@
-a = 5
-b = 3
-print(a+b)
+a_1 = 5
+b_2 = 3
+print(a_1+b_2)
 a = 10
-print(a+b)
+print(a+b_2)
 a = "katrina" #string
 print(a)
-print(a,b)
+print(a,b_2)
 b = "3"
 print(a+b)
 #types of variables
@@ -31,4 +31,10 @@ print(string + " and " + a)
 
 #gethub
 print("i have github now")
+
+
+# POLA'S CHECK
+
+print("GOOD JOB, KATRINA")
+print("Just a small change in variable")
 
