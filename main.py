@@ -36,5 +36,6 @@ print("i have github now")
 # POLA'S CHECK
 
 print("GOOD JOB, KATRINA")
+print("yey")
 print("Just a small change in variable")
 
