@@ -18,7 +18,7 @@ print(int(a_float))
 print(type(a_float)) #tells the type of variable
 
 c = 7.0
-print(type(c)) #if you have .0 its a float
+print(c) #if you have .0 its a float
 c=7
 print(c/2)
 print(type(c/2))
@@ -30,5 +30,5 @@ print(string + a)
 print(string + " and " + a)
 
 #gethub
-
+print("i have github now")
 
